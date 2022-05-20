@@ -4,7 +4,7 @@
 
 <h3>Connect with me : </h3>
 
-<img src="![linkedin](https://user-images.githubusercontent.com/98185334/169429207-e3da5513-edfe-40fb-aa7e-ffeeb89d8dd9.png)">
+<img src="https://user-images.githubusercontent.com/98185334/169429207-e3da5513-edfe-40fb-aa7e-ffeeb89d8dd9.png">
 
 <!--
 **abdoelrhmanelwsef/abdoelrhmanelwsef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
